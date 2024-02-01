@@ -1,7 +1,7 @@
 <h1 align="center"> Presentation links </h1>
 
 <p align="center">
-Este é um projeto de uma página que mostra uma maneira de reunir informações pessoais importantes e apresentá-las em um só lugar, trazendo links de lugares importantes como Instagram, LinkedIn e Github.
+Este é um projeto de uma página que apresenta informações pessoais apresentadas em um só lugar, trazendo links de lugares importantes como Instagram, LinkedIn e Github.
 </p>
 
 <p align="center">
