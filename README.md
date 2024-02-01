@@ -32,11 +32,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Os links de apresentação foram desenvolvidos a partir do Discover, um curso gratuito da Rocketseat. 
+Essa página foi desenvolvida com base a partir do Discover, um curso gratuito da Rocketseat. 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto do Discover que serviu como base para esse projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -44,4 +44,4 @@ Licença by MIT.
 
 ---
 
-Rocketseat: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Rocketseat: [Link da Rocketseat!](https://discord.gg/rocketseat)
